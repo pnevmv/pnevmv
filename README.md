@@ -48,4 +48,4 @@ MSc Computer Engineering
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/danil-smirnov/) · [GitHub](https://github.com/pnevmv)
+[LinkedIn](https://www.linkedin.com/in/danil-smirnov/) · [GitHub](https://github.com/pnevmv)
