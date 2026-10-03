@@ -6,12 +6,11 @@ My background combines software engineering with applied AI. I mainly work with 
 
 ### 🔍 Current interests
 
+* ⚙️ Software Engineering
 * 🤖 Machine Learning & Natural Language Processing
 * 🧠 Large Language Models & RAG
 * 🔎 Information Retrieval & Semantic Search
 * 🕸️ Knowledge Graphs
-* 📊 AI Evaluation
-* ⚙️ Software Engineering
 
 ### 🛠️ Technologies
 
