@@ -48,7 +48,7 @@ Italian automatic term extraction: token classification vs. zero-shot LLM genera
 **[PATHX](https://github.com/Graph-Databases-2025-26/PATHX)** — Graph Databases course project
 LLM-driven query processing where the LLM acts as a data source (GALOIS approach), with LangChain orchestration and token accounting.
 
-**FinTrack**
+**[FinTrack](https://github.com/pnevmv/FinTrack)**
 Java/Jakarta EE web application with PostgreSQL, authentication, Docker, and financial forecasting.
 
 ### 💼 Experience
